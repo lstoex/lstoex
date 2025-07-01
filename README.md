@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hellooo
+My name is Lennard and I am currently writing my master's thesis on optimization-based robot motion planning for dexterous, high-dof robots at the [*TUM-DLR AIDX*](https://aidx-lab.org/) lab led by Prof. Bäuml.
+- 🌱 Recently I have been getting into JAX and I really love it!
+- 🔭 Geometry and optimization problems are right up my alley
+- ⚡ Control systems are the best systems, right after sound systems
+- 📫 You can reach me at lstoellger(ät)gmail.com
 
 <!--
 **lstoex/lstoex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
